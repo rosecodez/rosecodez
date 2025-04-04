@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,pug,vite,vitest,webpack,docker,jest,vscode,babel,codepen,gcp,github,npm,stackoverflow,ubuntu,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,pug,vite,vitest,webpack,docker,postmanjest,vscode,babel,codepen,gcp,github,npm,stackoverflow,ubuntu,notion" />
   </a>
 </p>
 
@@ -25,12 +25,15 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosecodez&show_icons=true&theme=tokyonight" alt="rosecodez's GitHub stats" />
-</p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rosecodez&show_icons=true&theme=dark)
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosecodez&layout=compact&theme=dark)
 
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosecodez&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+---
 ### Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roxana-dandu/)
