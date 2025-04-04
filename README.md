@@ -33,7 +33,7 @@
 
 ### Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/roxana-dandu/)
 - 🌐 [Portfolio Website](https://rosecodez.github.io/Portfolio-Website)
 
 ---
